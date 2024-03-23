@@ -1,2 +1,2 @@
 #Digite print('Olá, mundo!')
-print(Hello Word)
+print('Hello Word')
